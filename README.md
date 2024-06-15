@@ -13,4 +13,5 @@ O livro "Use a Cabeça! Java" possui grande importância no estudo de Java por m
 ## Saiba Mais
 
 Site original: [O'Reilly](https://www.oreilly.com/library/view/head-first-java/0596009208/)
+
 Editora Brasileira: [Alta Books](https://altabooks.com.br/produto/use-a-cabeca-java/)
